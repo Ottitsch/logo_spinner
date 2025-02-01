@@ -9,6 +9,8 @@ This project consists of a C-based ASCII art rendering system, inspired by "donu
 - Converts an image into an ASCII representation using Python.
 - Dynamically renders ASCII art in a terminal with rotation and shading effects.
 
+https://github.com/user-attachments/assets/2502a723-bcae-4029-b99b-558a85bdd6f2
+
 ## Dependencies
 This project requires:
 - Python 3
